@@ -1,0 +1,100 @@
+{
+  "media": [
+    {
+      "id": "sintel-fantasy",
+      "title": "Sintel - Fantasy Anime Adventure (Short Film)",
+      "description": "Sintel is an independently produced computer-animated fantasy movie. The storytelling follows a lonely girl named Sintel who rescues and bonds with a baby dragon she names Scales, embarking on an epic journey.",
+      "type": "video",
+      "category": "Anime",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=1200&auto=format&fit=crop",
+      "duration": 888,
+      "uploadDate": "2026-05-10",
+      "views": 24050,
+      "isExternal": true
+    },
+    {
+      "id": "tears-of-steel",
+      "title": "Tears of Steel - Cyberpunk Sci-Fi Cinema",
+      "description": "A dark, stunning science fiction CGI film displaying high-tech visual effects. The story takes place in a futuristic cyberpunk city of Amsterdam where a group of soldiers and scientists attempt to save the earth from giant robots.",
+      "type": "video",
+      "category": "Movies",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&auto=format&fit=crop",
+      "duration": 734,
+      "uploadDate": "2026-05-15",
+      "views": 18230,
+      "isExternal": true
+    },
+    {
+      "id": "big-buck-bunny",
+      "title": "Big Buck Bunny - Animated Comedy",
+      "description": "A classic animated movie about a giant giant forest rabbit who takes revenge on three mischievous rodents bullies who upset the peaceful life of the forest.",
+      "type": "video",
+      "category": "Anime",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?w=1200&auto=format&fit=crop",
+      "duration": 596,
+      "uploadDate": "2026-05-20",
+      "views": 44320,
+      "isExternal": true
+    },
+    {
+      "id": "elephants-dream",
+      "title": "Elephants Dream - Surreal Steam Machine",
+      "description": "The world's first open-source 3D animated film. Enter a surreal world inside a giant, mystical, noisy mechanical structure where two individuals of contrasting age explore its deep corridors.",
+      "type": "video",
+      "category": "Series",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&auto=format&fit=crop",
+      "duration": 653,
+      "uploadDate": "2026-05-01",
+      "views": 15410,
+      "isExternal": true
+    },
+    {
+      "id": "lofi-beats-coding",
+      "title": "Lofi Chill Beats - Coding & Studying Session",
+      "description": "Mellow organic hip-hop beats to boost productivity, clear your mind, and find your flow state. Perfect background soundscape for building web apps.",
+      "type": "audio",
+      "category": "Music Video",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=1200&auto=format&fit=crop",
+      "duration": 372,
+      "uploadDate": "2026-05-25",
+      "views": 9840,
+      "isExternal": true
+    },
+    {
+      "id": "cyberpunk-synth",
+      "title": "Synthwave Nightfall - Cyberpunk Ambient Soundtrack",
+      "description": "Retrowave, outrun soundtracks, featuring heavy analog synthesizers, dynamic percussion, and nocturnal atmospheres that take you back to the 80s computer dreams.",
+      "type": "audio",
+      "category": "Music Video",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop",
+      "duration": 502,
+      "uploadDate": "2026-05-28",
+      "views": 12890,
+      "isExternal": true
+    }
+  ],
+  "playlists": [
+    {
+      "id": "epic-animations",
+      "name": "Featured Hand-Drawn & 3D Animations",
+      "description": "My hand-selected masterworks in compute, visual storytelling, and character models.",
+      "createdAt": "2026-05-29",
+      "mediaIds": ["sintel-fantasy", "big-buck-bunny", "elephants-dream"]
+    },
+    {
+      "id": "music-chill",
+      "name": "Chill Coding Beats & Atmospheric Synths",
+      "description": "High-fidelity tracks and instrumental backdrops for deep focus and studying sessions.",
+      "createdAt": "2026-05-29",
+      "mediaIds": ["lofi-beats-coding", "cyberpunk-synth"]
+    }
+  ],
+  "playbackPositions": {},
+  "comments": []
+}

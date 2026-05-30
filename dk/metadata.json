@@ -1,0 +1,6 @@
+{
+  "name": "Media Stream Portal",
+  "description": "A responsive personal media hub featuring video and audio plays, playback history timestamp persistence, custom playlist and category curation, and a secure passcode-guarded upload control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
